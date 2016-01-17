@@ -1,0 +1,17 @@
+E:\DemoSolution\XSvgPath\XSvgPath\XSvgPath\bin\Debug\XSvgPath.dll
+E:\DemoSolution\XSvgPath\XSvgPath\XSvgPath\bin\Debug\XSvgPath.pdb
+E:\DemoSolution\XSvgPath\XSvgPath\XSvgPath\bin\Debug\SVG.Forms.Plugin.Abstractions.dll
+E:\DemoSolution\XSvgPath\XSvgPath\XSvgPath\bin\Debug\Xamarin.Forms.Core.dll
+E:\DemoSolution\XSvgPath\XSvgPath\XSvgPath\bin\Debug\Xamarin.Forms.Platform.dll
+E:\DemoSolution\XSvgPath\XSvgPath\XSvgPath\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\DemoSolution\XSvgPath\XSvgPath\XSvgPath\bin\Debug\Xamarin.Forms.Core.xml
+E:\DemoSolution\XSvgPath\XSvgPath\XSvgPath\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\DemoSolution\XSvgPath\XSvgPath\XSvgPath\obj\Debug\XSvgPath.ViaXamlView.xaml.g.cs
+E:\DemoSolution\XSvgPath\XSvgPath\XSvgPath\obj\Debug\XSvgPath.App.xaml.g.cs
+E:\DemoSolution\XSvgPath\XSvgPath\XSvgPath\obj\Debug\XSvgPath.dll
+E:\DemoSolution\XSvgPath\XSvgPath\XSvgPath\obj\Debug\XSvgPath.pdb
+E:\DemoSolution\XSvgPath\XSvgPath\XSvgPath\obj\Debug\XSvgPath.csprojResolveAssemblyReference.cache
+E:\DemoSolution\XSvgPath\XSvgPath\XSvgPath\obj\Debug\XSvgPath.dll.mdb
+E:\DemoSolution\XSvgPath\XSvgPath\XSvgPath\bin\Debug\XSvgPath.dll.mdb
+E:\DemoSolution\XSvgPath\XSvgPath\XSvgPath\obj\Debug\XSvgPath.dll.mdb
+E:\DemoSolution\XSvgPath\XSvgPath\XSvgPath\bin\Debug\XSvgPath.dll.mdb
